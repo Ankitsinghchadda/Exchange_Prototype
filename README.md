@@ -70,4 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 > You can see the deployment here https://exchangesprototype.herokuapp.com/
+
 > ![image](https://user-images.githubusercontent.com/75713738/162762342-d8ba4d24-430e-4563-84e2-ab32535a1bd7.png)
